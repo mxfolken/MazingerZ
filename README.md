@@ -29,10 +29,7 @@ Starter Sequence of Mazinger Z Homebrew:
 5. The game makes calls to IO.SYS using the IOSYS API functions.
 
 
-
 "I hope you enjoy"
-
-
 
 Best regards.
 Rolando Fernández Benavidez (Folken), September 25, 2017.
