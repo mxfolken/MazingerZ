@@ -36,3 +36,15 @@ Starter Sequence of Mazinger Z Homebrew:
 Best regards.
 Rolando Fernández Benavidez (Folken), September 25, 2017.
 Programmer.
+
+
+
+Please report any errors, defects or comments to 
+the blog:
+
+
+       http://gmmazinger.blogspot.mx
+
+
+;)
+
