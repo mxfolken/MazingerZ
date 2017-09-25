@@ -20,9 +20,7 @@ The game launcher resides in the IO.SYS binary which was written using the PS2SD
 The BennuGD port for PlayStation 2 (bennugd.elf) was created by the ColDev development team, later I had to modify it to get IO.SYS, the current launcher of the Mazinger Z Homebrew DCB program.
 
 
-==============================================
 Starter Sequence of Mazinger Z Homebrew:
-==============================================
 
 1. PlayStation2 console reads the file SYSTEM.CNF
 2. IO.SYS is run
