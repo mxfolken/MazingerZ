@@ -10,22 +10,10 @@ Releases are also available on the itch.io site:
 https://nova32-entertainment.itch.io/mazinger-z-for-saturn
 
 
-
-
 "I hope you enjoy"
 
 Best regards.
 Rolando Fernández Benavidez (Folken), September 25, 2017.
 Programmer.
 
-
-
-Please report any errors, defects or comments to 
-the blog:
-
-
-       http://gmmazinger.blogspot.mx
-
-
-;)
 
